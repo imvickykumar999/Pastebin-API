@@ -1,5 +1,7 @@
 # `Pastebin` [API](https://pastebin.com/doc_api)
 
+`Your Key` : [`https://pastebin.com/doc_api#1`](https://pastebin.com/doc_api#1)
+
 ---------------------------
 
 ## >>> [Command](https://pastebin.com/JFrRYmbX) Online [CURL](https://reqbin.com/curl)
@@ -17,3 +19,5 @@
 ## >>> Possible Response
 
 ### [https://pastebin.com/`JFrRYmbX`](https://pastebin.com/JFrRYmbX)
+
+> [![image](https://user-images.githubusercontent.com/50515418/208889183-b9b685dd-f559-4c94-82f1-bb4b7331b4a2.png)](https://pastebin.com/doc_api)
